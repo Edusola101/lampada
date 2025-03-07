@@ -1,0 +1,9 @@
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    color: rgb(250, 250, 250);
+    width: 80px;
+}
